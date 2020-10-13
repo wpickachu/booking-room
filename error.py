@@ -1,0 +1,5 @@
+PET_CHECK_ERROR = "Too many pets."
+BED_COUNT_ERROR = "No rooms left with proper bed counts."
+HANDICAP_ERROR = "Disabled people is only available for level 1."
+BALANCE_ERROR = "Insufficient balance."
+OCCUPATION_ERROR = "The room is already occupied."
